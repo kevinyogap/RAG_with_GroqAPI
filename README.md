@@ -6,7 +6,7 @@
 
 ### 1. Analysis about how the project works
 
--The project is a simple application that allows users to upload a PDF file and ask questions about it using the Retrieval-Augmented Generation (RAG) technique. The application uses the Groq API Key to access powerful LLMs allowing for contextual question answering based on the uploaded document.
+The project is a simple application that allows users to upload a PDF file and ask questions about it using the Retrieval-Augmented Generation (RAG) technique. The application uses the Groq API Key to access powerful LLMs allowing for contextual question answering based on the uploaded document.
 In this project, I uploaded a file titled "KEVIN YOGA PRATAMA_CV & LinkedIn Review Booklet", which contains detailed feedback and recommendations to improve a CV and LinkedIn profile. 
 
 ---
