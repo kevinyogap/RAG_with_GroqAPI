@@ -1,4 +1,4 @@
-### Name : Arifian Saputra (Universitas Semarang)
+### Name : Kevin Yoga Pratama
 
 ### Tech Stack : Python, Gradio, LangChain, HuggingFace Embedding, FAISS vector store
 
@@ -108,15 +108,4 @@ python app.py
 
 ---
 
-### 5. Final Steps
-
-1. Create API key via: [https://console.groq.com/home](https://console.groq.com/home)
-2. Clone repo dan setup `.env`
-3. Buat virtual environment & install dependencies
-4. Jalankan `app.py`
-5. Analisis model dan suhu di README
-6. Push ke GitHub dengan nama repo: `RAG_with_GroqAPI`
-7. Kumpulkan link repositori kamu di platform yang ditentukan
-
-Referensi format: [https://github.com/nabilahpw/RAG\_with\_GroqAPI](https://github.com/nabilahpw/RAG_with_GroqAPI)
 
